@@ -2,7 +2,7 @@
 N-Body Simulation uses python to solve for equations of motion for N-particles interacting gravitationally using Runga Kutta method to solve for the equations of motion. The result is visualized using 3D animation using matplotlib
 
 
-https://user-images.githubusercontent.com/63173077/107128406-0f33f580-6883-11eb-8275-2cd70bd6a0f7.mp4
+![demo (2)](https://user-images.githubusercontent.com/63173077/107128460-7ce02180-6883-11eb-94d6-3026d5d18150.gif)
 
 # Usage
 
